@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="1455" group="สารคดี" size="Medium", HISTORY
-ttps://mediasv.online/tvchannel_x1/hd-history/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDIxIDM6MjE6MzQgUE0maGFzaF92YWx1ZT1rR1M2Tk5NVS9PVmtvNFFXMytuS1FRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIzJmlkPWNoXzE2NDQz
+https://mediasv.online/tvchannel_x1/hd-history/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDIxIDM6MjE6MzQgUE0maGFzaF92YWx1ZT1rR1M2Tk5NVS9PVmtvNFFXMytuS1FRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIzJmlkPWNoXzE2NDQz
 #EXTINF:0 type="stream" channelId="-1" group="สารคดี" logo="https://we-play.live/uploads/posters/asian-food-channel-poster1602705524.jpeg" size="Medium", Asian Food
 https://mediasv.online/tvchannel_x2/hd-afc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDIxIDM6MDg6MzEgQU0maGFzaF92YWx1ZT1XTW5uUTRkT1ZlMkJsZFlGS05lc3pRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzY0Nzc3
 #EXTINF:0 type="stream" channelId="57" group="สารคดี" size="Medium", Discovery
